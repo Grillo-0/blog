@@ -22,8 +22,8 @@ title: Arthur Grillo
 email: arthur.grillo@riseup.br
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Engineering
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repo: "https://github.com/Grillo-0/blog"
+url: "https://grillo-0.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Grillo-0
 
 # Build settings
