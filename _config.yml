@@ -18,13 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Arthur Grillo
-email: arthur.grillo@riseup.br
+title: Blog
+author: Arthur Grillo
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Engineering
+  This is a blog to document my process in developing to a open-source
+  projects.
 repo: "https://github.com/Grillo-0/blog"
 url: "https://grillo-0.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+email: arthur.grillo@riseup.br
 github_username: Grillo-0
+
+  #linkedin_username: arthur-grillo-queiroz-cabral
 
 # Build settings
 theme: minima
